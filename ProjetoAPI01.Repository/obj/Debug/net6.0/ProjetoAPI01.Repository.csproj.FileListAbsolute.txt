@@ -1,0 +1,12 @@
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\bin\Debug\net6.0\ProjetoAPI01.Repository.deps.json
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\bin\Debug\net6.0\ProjetoAPI01.Repository.dll
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\bin\Debug\net6.0\ProjetoAPI01.Repository.pdb
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.csproj.AssemblyReference.cache
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.AssemblyInfoInputs.cache
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.AssemblyInfo.cs
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.dll
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\refint\ProjetoAPI01.Repository.dll
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ProjetoAPI01.Repository.pdb
+C:\Users\andressa\source\repos\Aulas .NET C#\ProjetoAPI01\ProjetoAPI01.Repository\obj\Debug\net6.0\ref\ProjetoAPI01.Repository.dll
